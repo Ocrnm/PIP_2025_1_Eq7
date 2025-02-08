@@ -56,7 +56,7 @@
      <string>Nombre:</string>
     </property>
    </widget>
-   <widget class="QLineEdit" name="txt_valor">
+   <widget class="QLineEdit" name="txt_nombre">
     <property name="geometry">
      <rect>
       <x>240</x>
@@ -133,7 +133,7 @@ border-radius: 15px;</string>
      <string>Edad:</string>
     </property>
    </widget>
-   <widget class="QLineEdit" name="txt_valor_2">
+   <widget class="QLineEdit" name="txt_edad">
     <property name="geometry">
      <rect>
       <x>240</x>
@@ -175,7 +175,7 @@ border-radius: 15px;</string>
      <string>Ocupación:</string>
     </property>
    </widget>
-   <widget class="QLineEdit" name="txt_valor_3">
+   <widget class="QLineEdit" name="txt_ocupacion">
     <property name="geometry">
      <rect>
       <x>240</x>
